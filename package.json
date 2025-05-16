@@ -1,0 +1,22 @@
+{
+  "name": "homework48",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "table": "^6.9.0"
+  }
+}
